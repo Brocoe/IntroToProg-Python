@@ -1,0 +1,3 @@
+Walk Dog,High
+Do Dishes,Medium
+Grocery Shop,High
